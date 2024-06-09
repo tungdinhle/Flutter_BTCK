@@ -40,4 +40,4 @@
     - Cài đặt Flutter SDK.
     - Mở project bằng Android Studio hoặc Visual Studio Code, chạy lệnh 'flutter run'
 ## Cài đặt app trên máy thật:
-    - Build -> Flutter -> Build APK: tải file APK về máy và cài đặt.
+    - Build -> Flutter -> Build APK: tải file APK về máy và cài đặt."# Flutter_BTCK" 
